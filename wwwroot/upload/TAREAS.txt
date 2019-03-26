@@ -1,0 +1,118 @@
+- Metricas de Santander OK
+- Control de avisos de rendimiento OK
+- Desasignación P2P6 OK (PENDIENTE DE SUBIR)
+- control de CP en Santander OK
+- Documentación de Tallyman OK
+- Aplicación para Grove. EN PROCESO
+- Error de subida de telefonos de Grove CASI OK (Hay que cambiar el altasBajas)
+- Cambios en la foto de Santander CASI OK
+- Fichero de TDX (Reunión con Carlos, pendiente de que me pasen el mapeo).
+- AltasBajas para DATA.
+- Reunión con Pedro mañana para importar los placement.
+
+/*******04/07/2018***********/
+
+- Reunion de cartas
+- Aplicación de subida de Grove
+- Insercion de la nueva campaña
+- Fichero de tdx (ESTO LO TERCERO)
+- Samy de los sms de Coppi
+- Lorena quiere reunión para el fichero de concursos pero ya veremos pa cuando
+- Automatizar el proceso de desasignacion con Santander
+- Crear un mail explicando la automatización.
+- Crear la tabla historico3Aux y meter los datos en el proceso (ESTO LO PRIMERO)
+- Mejora rendimiento
+
+/******23/07/2018************/
+
+----PENDIENTE-----
+
+- Generación de nuevos escritos (Revisar)
+- Queda un Tape de Candela 	
+- Estado de Tallyman que no puede viajar en la foto
+- En Solvia no se ven los pagos ni se resta deuda
+- La nueva foto prevision primer borrador 27/07/2018, hay que meter lo del estado de tallyman y los procus
+- ver los cambios de Segmento con Pablo.
+- Problema con el envío de Mail (Miguel)
+- Problema con los Bureaus (Alex y Miguel)
+- #3947154 - PARTIDO JUDICIAL CJ AL CREAR GHOST
+
+----RESUELTO------
+
+- Metricas Tallyman
+- Vera
+- Nueva campaña LAB
+- Expedientes de Gregal - 2
+- Caida 2.8
+- Errores con la marca rosa
+- Tapes pendientes
+- Procuradores de Tallyman 
+
+/******08/08/2018************/
+
+- CADA MIÉRCOLES A LA 13:00 HACER LA RELEASE
+- QUITAR TEAMCITY
+
+
+/******02/10/2018************/
+
+- El descuadre de Grove que hay es de 2.344,01€
+- Revisar la importación de Santander
+
+
+
+Unidades tocadas IMPOR Santander :
+
+Santander_importa_new
+/segmentacion/
+expediente.php de Santander
+santander_importa_new_OLDULTIMO.php
+Resllam
+
+Expediente de daciones a revisar 1005738
+
+
+/******09/10/2018************/
+
+- Hablar de la segmentación
+- Tema de Eva con el cash report
+- Mandar a Vicky cómo actualizar el cash report
+- Seguir con el buscador genérico
+- Continuar con la automatización de Grove
+- Preguntar como va el tema Cabot
+
+Bankia Pendiente :
+
+- Conciliador          - PENDIENTE
+- Informe de Cobros    - PENDIENTE
+- Tiene info Judicial? - NO
+- Script Aleph         - ULTIMAS PRUEBAS
+
+/******28/10/2018************/
+
+- Ficheros pendientes Iberdrola.
+- Nuevo formato ficheros de TDX (8 de Noviembre). No queremos reentradas
+- Foto Santander (Preguntar Alba).
+- Importacion automática de Grove
+- Incidencias pendientes del Lab
+- Ver con Cris lo de Solvia.
+- Problema con los Escritos actualización de Chrome. 
+- Impor de Jazztel se ha quedado en el Jenkins.
+
+/******05/11/2018************/
+
+- Meter los errores de métricas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
